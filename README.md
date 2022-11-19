@@ -3,6 +3,7 @@ There are 5 categories used to group the HTTP Response
 ## Categories
 - Information responses [100 - 199]
     - 200 ok
+    
         The HTTP response status code 200 is the standard response for successful HTTP request
         The sever responded with "OK" to indicate that the request was successful
     - 201 created
